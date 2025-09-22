@@ -5,6 +5,9 @@
 Estudo sobre os principais componentes e arquitetura do Sistema Operacional Android e desenvolvimento de aplicativos móveis para
 esta arquitetura.
 
+## 📋 App To Do List
+[Link do Repositório](https://github.com/oguscaetano/todo-list-android)
+
 ## 🎯 Avaliações
 
 ID | Data | Avaliação | Peso
