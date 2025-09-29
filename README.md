@@ -12,6 +12,6 @@ esta arquitetura.
 
 ID | Data | Avaliação | Peso
 ---|------|-----------|-----
-A2 | TBD | TBD | **5 pontos**
-A1 | TBD | TBD | **5 pontos**
-SUB | TBD | TBD | Substitutiva
+A2 | 14/10 | Prova | **5 pontos**
+A1 | 17/11 e 18/11 | Projeto | **5 pontos**
+SUB | 01/12 | Prova | Substitutiva
