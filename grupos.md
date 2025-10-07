@@ -7,5 +7,4 @@ Chama | Pedro Alves | Yuri | Gabriel
 Paraguas | Filipe Camargo | Maria | Vitor Campos
 Tome | Guilherme Ami | Cecilia Prado | Heros Dinao
 Athletico Paranaense | Pedro Bahry | Guilherme Fernando | Caio Marcidele
-Havainas | Lucas de Oliveira | Jhenyffer | Vitor Noguera 
-Atlético Paranaense | Pedro Bahry | Guilherme Fernando | Caio Marcidele
+Autismo | Rafael Zacharkim | Bruno Nascimento | Guilherme Romero
